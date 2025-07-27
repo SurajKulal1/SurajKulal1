@@ -15,6 +15,7 @@ I'm currently in the final year of my B.E. in Computer Science and Engineering a
 I began my development journey with a strong focus on Java and Web Technologies, and over time, expanded my skills into real-time communication, blockchain systems, and peer-to-peer networking. I’m passionate about building practical, scalable solutions—from multiplayer games to decentralized platforms.
 
 🧰 Tech Stack & Tools
+
 ---
 Languages
 
@@ -47,6 +48,7 @@ WebRTC & Geckos.io: Expertise in building real-time, low-latency peer-to-peer co
 Socket Programming: Proficient in designing robust networked applications for efficient client-server communication.
 
 Smart Contracts & IPFS: Applied knowledge in developing decentralized applications (dApps) with secure, immutable data storage and logic.
+
 ---
 📜 Certifications
 
@@ -85,6 +87,7 @@ Created a decentralized doctor-patient consultation platform integrating Solidit
 Marks Management System
 
 Designed and implemented a JSP/Servlet-based Marks Management System streamlining mark entry, session tracking, and generating real-time dashboard reports for over 500 students, significantly improving administrative efficiency.
+
 ---
 🎯 Goals
 
@@ -95,6 +98,7 @@ Dive deeper into blockchain, real-time systems, and secure architectures.
 Continuously enhance problem-solving, database, and backend development skills.
 
 Collaborate with passionate developers and tech communities.
+
 ---
 *   🌍  I'm based in I am based in Udupi, Karnataka, India.
 *   ✉️  You can contact me at [1602.soorajk@gmail.com](mailto:1602.soorajk@gmail.com)
