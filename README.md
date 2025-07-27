@@ -4,100 +4,82 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Java & Web Dev Enthusiast | Blockchain Curious | Real-Time Systems Learner
 --------------------------------------------------------------------------
 
-👋 Hi, I'm Suraj Kulal
-
-Building real-time tech, one line at a time.
+# 👋 Hi there, I'm Suraj Kulal
+### *"Building real-time tech, one line at a time."*
 
 💻 Computer Science Engineering Student | ☕ Java & MongoDB Developer | 🌐 Real-Time Web App Builder | 🔗 Blockchain Enthusiast
 
-I'm currently in the final year of my B.E. in Computer Science and Engineering at Alva’s Institute of Engineering and Technology, Karnataka, India.
+---
+
+🎓 I'm currently in my final year of B.E. in Computer Science and Engineering at **Alva’s Institute of Engineering and Technology**, Karnataka, India.
 
 I began my development journey with a strong focus on Java and Web Technologies, and over time, expanded my skills into real-time communication, blockchain systems, and peer-to-peer networking. I’m passionate about building practical, scalable solutions—from multiplayer games to decentralized platforms.
 
-🧰 Tech Stack & Tools
-
 ---
-Languages
 
+## 🧰 Tech Stack & Tools
+
+**Languages**  
 Java, C, C++, JavaScript, Python, SQL, HTML, CSS
 
-Web Development
-
+**Web Development**  
 JSP, Servlets, React.js, Node.js, PHP, Bootstrap, DOM Manipulation
 
-Database Systems
-
+**Database Systems**  
 MongoDB, MySQL, PostgreSQL
 
-Data Analytics & Machine Learning
-
+**Data Analytics & Machine Learning**  
 Pandas, NumPy, Matplotlib, scikit-learn (Familiar with)
 
-Developer Tools
-
+**Developer Tools**  
 Git & GitHub, VS Code, Eclipse, Google Cloud Platform, Jupyter Notebook, XAMPP, LaTeX, Excel, CAD Tools
 
-Platforms & Cloud
-
+**Platforms & Cloud**  
 Salesforce (Trailhead), ServiceNow
 
-Other Concepts
-
-WebRTC & Geckos.io: Expertise in building real-time, low-latency peer-to-peer communication systems for interactive web applications.
-
-Socket Programming: Proficient in designing robust networked applications for efficient client-server communication.
-
-Smart Contracts & IPFS: Applied knowledge in developing decentralized applications (dApps) with secure, immutable data storage and logic.
+**Other Concepts**  
+- 🔁 WebRTC & Geckos.io: Expertise in building real-time, low-latency peer-to-peer communication systems for interactive web applications.  
+- 🔌 Socket Programming: Proficient in designing robust networked applications for efficient client-server communication.  
+- 🔐 Smart Contracts & IPFS: Applied knowledge in developing decentralized applications (dApps) with secure, immutable data storage and logic.
 
 ---
-📜 Certifications
 
-Foundations of Cybersecurity – Google (Coursera)
+## 📜 Certifications
 
-Programming in Java – NPTEL
-
-Software Engineering – NPTEL
-
-Data Structures and Applications – CodeChef
-
-Core Java, Machine Learning, AWS, NoSQL, DBMS – Infosys Springboard
-
-MongoDB (NoSQL) – Infosys Springboard
-
-Full Stack Development Program – Wipro Technologies (Enrolled)
-
-Salesforce Hands-on Training – Salesforce Trailhead (18000+ points)
-
+Foundations of Cybersecurity – Google (Coursera)  
+Programming in Java – NPTEL  
+Software Engineering – NPTEL  
+Data Structures and Applications – CodeChef  
+Core Java, Machine Learning, AWS, NoSQL, DBMS – Infosys Springboard  
+MongoDB (NoSQL) – Infosys Springboard  
+Full Stack Development Program – Wipro Technologies (Enrolled)  
+Salesforce Hands-on Training – Salesforce Trailhead (18000+ points)  
 Blockchain Cryptography Workshop – Technical Workshop
+
 ---
-🚀 Projects & Interests
 
-PeerPlay – Real-Time Multiplayer Game
+## 🚀 Projects & Interests
 
+**🎮 PeerPlay – Real-Time Multiplayer Game**  
 Engineered a real-time multiplayer game (Phaser 3 & Geckos.io) enabling low-latency LAN-based P2P gameplay for up to 4 concurrent players, incorporating dynamic collision detection and physics for an engaging user experience.
 
-DropBridge – P2P File Transfer Tool
-
+**📁 DropBridge – P2P File Transfer Tool**  
 Developed DropBridge, a WebRTC-based P2P file transfer tool achieving server-less, secure file sharing with average transfer speeds 2-3x faster than traditional cloud-based methods for large files.
 
-Doctor-Patient Consultation Platform (Blockchain)
-
+**🏥 Doctor-Patient Consultation Platform (Blockchain)**  
 Created a decentralized doctor-patient consultation platform integrating Solidity smart contracts for tamper-proof appointment booking and IPFS for secure, immutable document sharing, enhancing patient data privacy and transparency.
 
-Marks Management System
-
+**📊 Marks Management System**  
 Designed and implemented a JSP/Servlet-based Marks Management System streamlining mark entry, session tracking, and generating real-time dashboard reports for over 500 students, significantly improving administrative efficiency.
 
 ---
-🎯 Goals
 
-Contribute to impactful open-source and research-driven projects.
+## 🎯 Goals
 
-Dive deeper into blockchain, real-time systems, and secure architectures.
-
-Continuously enhance problem-solving, database, and backend development skills.
-
-Collaborate with passionate developers and tech communities.
+• Contribute to impactful open-source and research-driven projects  
+• Dive deeper into blockchain, real-time systems, and secure architectures  
+• Continuously enhance problem-solving, database, and backend development skills  
+• Collaborate with passionate developers and tech communities
 
 ---
 *   🌍  I'm based in I am based in Udupi, Karnataka, India.
