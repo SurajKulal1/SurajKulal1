@@ -110,8 +110,9 @@ Designed and implemented a JSP/Servlet-based Marks Management System streamlinin
   </a>
 
 <a href="https://leetcode.com/u/Suraj_Kulal/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/leetcode.svg" width="32" height="32" alt="LeetCode" title="LeetCode" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="32" height="32" alt="LeetCode" title="LeetCode" />
 </a>
+
 <a href="https://www.codechef.com/users/al_4al22cs171" target="_blank" rel="noreferrer">
   <img src="https://cdn.codechef.com/images/cc-logo.svg" width="32" height="32" alt="CodeChef" title="CodeChef" />
 </a>
