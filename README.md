@@ -7,7 +7,7 @@ Java & Web Dev Enthusiast | Blockchain Curious | Real-Time Systems Learner
 # 👋 Hi there, I'm Suraj Kulal
 ### *"Building real-time tech, one line at a time."*
 
-💻 Computer Science Engineering Student | ☕ Java & MongoDB Developer | 🌐 Real-Time Web App Builder | 🔗 Blockchain Enthusiast
+💻 Computer Science Engineering Student | ☕ Java & Web Developer | 🌐 Real-Time Web App Builder | 🔗 Blockchain and MongoDB Enthusiast
 
 ---
 
