@@ -108,6 +108,7 @@ Designed and implemented a JSP/Servlet-based Marks Management System streamlinin
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
     </picture>
   </a>
+
 <a href="https://leetcode.com/u/Suraj_Kulal/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/leetcode.svg" width="32" height="32" alt="LeetCode" title="LeetCode" />
 </a>
