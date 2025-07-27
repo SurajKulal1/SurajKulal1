@@ -20,13 +20,13 @@ I began my development journey with a strong focus on Java and Web Technologies,
 ## 🧰 Tech Stack & Tools
 
 **Languages**  
-Java, C, C++, JavaScript, Python, SQL, HTML, CSS
+Java, C, C++, JavaScript, SQL, HTML, CSS
 
 **Web Development**  
 JSP, Servlets, React.js, Node.js, PHP, Bootstrap, DOM Manipulation
 
 **Database Systems**  
-MongoDB, MySQL, PostgreSQL
+MongoDB, MySQL
 
 **Data Analytics & Machine Learning**  
 Pandas, NumPy, Matplotlib, scikit-learn (Familiar with)
