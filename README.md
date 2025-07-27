@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Java & Web Dev Enthusiast | Blockchain Curious | Real-Time Systems Learner
 --------------------------------------------------------------------------
 
-# 👋 Hi there, I'm Suraj Kulal
 ### *"Building real-time tech, one line at a time."*
 
 💻 Computer Science Engineering Student | ☕ Java & Web Developer | 🌐 Real-Time Web App Builder | 🔗 Blockchain and MongoDB Enthusiast
